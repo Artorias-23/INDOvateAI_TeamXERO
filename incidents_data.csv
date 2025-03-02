@@ -1,0 +1,101 @@
+id,created_at,latitude,longitude,location,women_count,men_count,action,description
+1,2025-02-02 04:44:38,18.526953,73.869174,Swargate,5,4,Walking,"A person sprinting through the crowd, avoiding obstacles."
+2,2025-01-31 00:08:38,18.510628,73.878592,Swargate,0,2,Standing,A child running towards his mother in a busy marketplace.
+3,2025-02-04 18:40:38,18.505811,73.870269,Swargate,5,10,Walking,"Three men fighting near the food stalls, causing a commotion."
+4,2025-01-31 17:50:38,18.504903,73.861185,Swargate,2,3,Fighting,"Two men engaged in a heated argument, pushing each other aggressively."
+5,2025-01-30 21:57:38,18.518431,73.852233,Lakshmi Road,4,4,Running,"Three men fighting near the food stalls, causing a commotion."
+6,2025-01-30 22:16:38,18.523272,73.846565,Swargate,4,9,Running,"A group of people walking along the road, some carrying bags."
+7,2025-02-02 22:17:38,18.526188,73.861252,Swargate,4,2,Standing,"A woman standing near a shop, looking at her phone."
+8,2025-02-06 13:46:38,18.524772,73.874483,Swargate,3,7,Running,"A person sprinting through the crowd, avoiding obstacles."
+9,2025-02-02 04:49:38,18.515038,73.84751,FC Road,5,5,Standing,"A man standing at the corner, observing the surroundings."
+10,2025-02-02 20:18:38,18.516241,73.865203,FC Road,2,3,Standing,"A woman walking quickly, looking back nervously."
+11,2025-01-31 17:52:38,18.524445,73.845828,Swargate,1,8,Running,"A person standing near the bus stop, waiting for transport."
+12,2025-01-31 06:07:38,18.520345,73.866591,Swargate,0,2,Running,Two individuals involved in a physical fight near a traffic signal.
+13,2025-02-04 11:13:38,18.500957,73.841239,Swargate,0,2,Walking,Two individuals involved in a physical fight near a traffic signal.
+14,2025-02-06 06:00:38,18.529737,73.879251,Lakshmi Road,0,3,Standing,"Three men fighting near the food stalls, causing a commotion."
+15,2025-02-05 12:39:38,18.501076,73.859984,Swargate,4,3,Running,"Two men engaged in a heated argument, pushing each other aggressively."
+16,2025-01-31 23:56:38,18.527356,73.845807,Lakshmi Road,5,5,Fighting,A child running towards his mother in a busy marketplace.
+17,2025-02-05 11:30:38,18.511761,73.848243,Swargate,2,4,Fighting,"A person sprinting through the crowd, avoiding obstacles."
+18,2025-01-31 05:29:38,18.520061,73.872931,FC Road,0,2,Running,"A person sprinting through the crowd, avoiding obstacles."
+19,2025-02-04 08:39:38,18.527175,73.860916,Lakshmi Road,3,10,Fighting,"Three men fighting near the food stalls, causing a commotion."
+20,2025-02-03 21:20:38,18.50051,73.865266,Lakshmi Road,5,2,Fighting,"A woman standing near a shop, looking at her phone."
+21,2025-02-05 19:40:38,18.524014,73.875411,FC Road,4,8,Walking,"Three men fighting near the food stalls, causing a commotion."
+22,2025-02-04 08:00:38,18.513402,73.840793,Swargate,1,6,Standing,"Two men engaged in a heated argument, pushing each other aggressively."
+23,2025-02-01 11:41:38,18.51486,73.855604,FC Road,0,4,Running,A group of teenagers involved in a minor scuffle near a bus stop.
+24,2025-02-04 13:49:38,18.51886,73.849883,Swargate,3,7,Fighting,Two individuals involved in a physical fight near a traffic signal.
+25,2025-02-02 17:29:38,18.525577,73.876373,Lakshmi Road,4,3,Standing,"Several men arguing loudly, attracting attention."
+26,2025-02-05 12:53:38,18.524542,73.871983,Swargate,3,3,Standing,"A man standing at the corner, observing the surroundings."
+27,2025-02-01 03:24:38,18.50897,73.841135,FC Road,2,8,Fighting,Two individuals involved in a physical fight near a traffic signal.
+28,2025-02-05 11:26:38,18.528576,73.852444,Swargate,2,4,Running,"A woman walking quickly, looking back nervously."
+29,2025-01-31 01:15:38,18.525359,73.864106,FC Road,0,4,Running,"A woman standing near a shop, looking at her phone."
+30,2025-02-03 08:58:38,18.512733,73.877141,Swargate,3,10,Walking,"A couple walking hand in hand, engaged in conversation."
+31,2025-02-04 01:33:38,18.506237,73.860845,Swargate,2,10,Standing,"A woman seen walking alone, appearing distressed."
+32,2025-02-04 19:22:38,18.509373,73.850708,FC Road,0,3,Fighting,"A person standing near the bus stop, waiting for transport."
+33,2025-02-03 10:59:38,18.511996,73.858453,FC Road,3,7,Standing,"A person standing near the bus stop, waiting for transport."
+34,2025-01-31 23:25:38,18.526491,73.842334,Swargate,2,8,Running,"Several men arguing loudly, attracting attention."
+35,2025-02-06 05:29:38,18.525768,73.865112,FC Road,0,6,Running,Two individuals involved in a physical fight near a traffic signal.
+36,2025-02-03 03:06:38,18.520514,73.878132,Lakshmi Road,2,8,Running,"Several men arguing loudly, attracting attention."
+37,2025-02-06 07:34:38,18.529534,73.851414,Swargate,0,6,Walking,"A group of people walking along the road, some carrying bags."
+38,2025-02-03 07:03:38,18.520044,73.879747,FC Road,5,6,Walking,"A person sprinting through the crowd, avoiding obstacles."
+39,2025-02-03 22:31:38,18.527762,73.849403,Swargate,0,10,Standing,"Two men engaged in a heated argument, pushing each other aggressively."
+40,2025-01-31 19:55:38,18.501242,73.869656,Swargate,5,4,Running,"A woman walking quickly, looking back nervously."
+41,2025-02-05 21:55:38,18.514641,73.85227,Swargate,1,2,Standing,"A couple walking hand in hand, engaged in conversation."
+42,2025-02-05 07:36:38,18.522063,73.852725,FC Road,0,6,Standing,"Three men fighting near the food stalls, causing a commotion."
+43,2025-02-06 15:33:38,18.509995,73.855948,Swargate,2,9,Running,"A man seen running across the street, possibly in a hurry."
+44,2025-02-02 12:49:38,18.516832,73.852486,Lakshmi Road,4,5,Running,"A group of people walking along the road, some carrying bags."
+45,2025-02-04 18:42:38,18.508319,73.843341,FC Road,5,7,Standing,"Two men engaged in a heated argument, pushing each other aggressively."
+46,2025-01-31 19:05:38,18.526756,73.854083,Swargate,5,7,Fighting,A child running towards his mother in a busy marketplace.
+47,2025-02-03 05:24:38,18.527597,73.848594,Swargate,5,4,Running,"Three men fighting near the food stalls, causing a commotion."
+48,2025-02-05 14:04:38,18.517913,73.863023,Swargate,0,10,Walking,"A group of people walking along the road, some carrying bags."
+49,2025-02-06 07:17:38,18.526952,73.870614,FC Road,5,10,Fighting,"Three men fighting near the food stalls, causing a commotion."
+50,2025-02-02 09:29:38,18.519336,73.856067,Swargate,1,6,Walking,Two individuals involved in a physical fight near a traffic signal.
+51,2025-01-31 12:05:38,18.502669,73.847063,FC Road,2,2,Walking,"Three men fighting near the food stalls, causing a commotion."
+52,2025-01-31 04:39:38,18.509049,73.840029,FC Road,2,5,Fighting,"A person standing near the bus stop, waiting for transport."
+53,2025-02-03 15:54:38,18.519679,73.85652,Swargate,0,3,Walking,"A group of people walking along the road, some carrying bags."
+54,2025-02-03 17:39:38,18.509611,73.86543,Swargate,5,6,Walking,A child running towards his mother in a busy marketplace.
+55,2025-02-03 17:27:38,18.501465,73.878205,FC Road,4,5,Standing,"A woman seen walking alone, appearing distressed."
+56,2025-02-03 03:49:38,18.507832,73.876424,FC Road,3,5,Fighting,"A man seen running across the street, possibly in a hurry."
+57,2025-02-03 16:27:38,18.528101,73.845481,FC Road,0,7,Running,"A couple walking hand in hand, engaged in conversation."
+58,2025-02-04 18:27:38,18.513723,73.878855,Lakshmi Road,3,5,Standing,"A woman seen walking alone, appearing distressed."
+59,2025-02-06 12:58:38,18.516834,73.870601,Lakshmi Road,3,7,Running,"Two men engaged in a heated argument, pushing each other aggressively."
+60,2025-01-30 19:18:38,18.528442,73.853211,Swargate,2,9,Standing,"Three men fighting near the food stalls, causing a commotion."
+61,2025-01-31 01:34:38,18.504925,73.850387,FC Road,3,6,Walking,"A woman walking quickly, looking back nervously."
+62,2025-02-02 17:23:38,18.522582,73.876638,FC Road,5,9,Fighting,"A man standing at the corner, observing the surroundings."
+63,2025-01-31 22:30:38,18.523641,73.878608,Swargate,5,10,Walking,A child running towards his mother in a busy marketplace.
+64,2025-02-01 03:19:38,18.522971,73.866687,Swargate,4,2,Running,"A woman standing near a shop, looking at her phone."
+65,2025-02-02 04:22:38,18.502565,73.856291,Lakshmi Road,3,8,Standing,"A person sprinting through the crowd, avoiding obstacles."
+66,2025-02-05 10:04:38,18.510271,73.855203,FC Road,3,7,Running,"A man seen running across the street, possibly in a hurry."
+67,2025-02-04 03:05:38,18.527655,73.868043,Lakshmi Road,1,1,Standing,"A person standing near the bus stop, waiting for transport."
+68,2025-02-06 01:00:38,18.523597,73.868316,FC Road,0,7,Fighting,"A woman standing near a shop, looking at her phone."
+69,2025-02-05 17:26:38,18.504745,73.875205,Swargate,4,2,Standing,"A man seen running across the street, possibly in a hurry."
+70,2025-01-30 20:02:38,18.526992,73.868468,Lakshmi Road,0,10,Running,"A person standing near the bus stop, waiting for transport."
+71,2025-01-31 08:21:38,18.522461,73.861009,FC Road,4,6,Running,"A group of people walking along the road, some carrying bags."
+72,2025-02-03 11:48:38,18.508177,73.849848,FC Road,0,7,Walking,"A person standing near the bus stop, waiting for transport."
+73,2025-02-05 07:37:38,18.500205,73.844509,Swargate,0,5,Walking,"A woman walking quickly, looking back nervously."
+74,2025-02-05 11:53:38,18.529563,73.866152,FC Road,0,1,Standing,"A woman seen walking alone, appearing distressed."
+75,2025-02-01 23:13:38,18.513713,73.875051,Lakshmi Road,4,4,Fighting,"Two men engaged in a heated argument, pushing each other aggressively."
+76,2025-02-02 14:50:38,18.5237,73.844375,Lakshmi Road,0,2,Fighting,"A man seen running across the street, possibly in a hurry."
+77,2025-02-01 12:50:38,18.526285,73.868917,Swargate,3,7,Standing,"A group of people walking along the road, some carrying bags."
+78,2025-01-31 08:56:38,18.513117,73.87809,Lakshmi Road,2,9,Fighting,"A person standing near the bus stop, waiting for transport."
+79,2025-01-31 04:02:38,18.509867,73.862349,Swargate,2,9,Standing,"Several men arguing loudly, attracting attention."
+80,2025-02-04 10:45:38,18.515278,73.858426,Lakshmi Road,3,4,Running,A child running towards his mother in a busy marketplace.
+81,2025-01-31 14:34:38,18.504705,73.873289,Lakshmi Road,1,4,Walking,"A couple walking hand in hand, engaged in conversation."
+82,2025-02-06 15:21:38,18.527055,73.859302,Lakshmi Road,1,1,Running,"Several men arguing loudly, attracting attention."
+83,2025-02-05 15:23:38,18.501131,73.846766,FC Road,3,5,Standing,"A woman walking quickly, looking back nervously."
+84,2025-01-31 09:06:38,18.522648,73.853212,Lakshmi Road,1,7,Running,"A woman seen walking alone, appearing distressed."
+85,2025-02-04 13:26:38,18.516842,73.846861,Swargate,2,6,Walking,"Several men arguing loudly, attracting attention."
+86,2025-02-02 13:52:38,18.506368,73.843371,Swargate,2,1,Walking,A child running towards his mother in a busy marketplace.
+87,2025-01-31 00:53:38,18.505964,73.855862,FC Road,2,1,Fighting,"A woman walking quickly, looking back nervously."
+88,2025-02-01 08:08:38,18.510052,73.874019,Lakshmi Road,3,3,Fighting,"A person standing near the bus stop, waiting for transport."
+89,2025-01-31 07:37:38,18.526994,73.841201,FC Road,2,8,Running,"Two men engaged in a heated argument, pushing each other aggressively."
+90,2025-02-01 08:58:38,18.513888,73.87199,Lakshmi Road,1,1,Walking,"A person sprinting through the crowd, avoiding obstacles."
+91,2025-02-02 06:09:38,18.50932,73.872937,FC Road,5,3,Walking,"A person sprinting through the crowd, avoiding obstacles."
+92,2025-02-01 17:12:38,18.500988,73.846877,Swargate,0,8,Running,"A person standing near the bus stop, waiting for transport."
+93,2025-02-04 00:08:38,18.524258,73.850289,Lakshmi Road,2,4,Standing,"A couple walking hand in hand, engaged in conversation."
+94,2025-02-05 07:31:38,18.520036,73.843763,Swargate,4,4,Walking,Two individuals involved in a physical fight near a traffic signal.
+95,2025-02-05 04:02:38,18.520625,73.845797,Lakshmi Road,3,7,Running,Two individuals involved in a physical fight near a traffic signal.
+96,2025-02-05 20:18:38,18.511886,73.854677,Swargate,5,7,Running,"A person sprinting through the crowd, avoiding obstacles."
+97,2025-02-01 15:15:38,18.51594,73.841481,FC Road,3,8,Fighting,Two individuals involved in a physical fight near a traffic signal.
+98,2025-02-05 12:33:38,18.504573,73.850281,Lakshmi Road,1,2,Running,A group of teenagers involved in a minor scuffle near a bus stop.
+99,2025-02-02 18:56:38,18.514713,73.848295,FC Road,5,4,Standing,"A person sprinting through the crowd, avoiding obstacles."
+100,2025-02-02 04:05:38,18.515098,73.848619,FC Road,1,3,Fighting,"Three men fighting near the food stalls, causing a commotion."
